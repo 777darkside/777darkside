@@ -8,7 +8,7 @@ Product Designer / Product Builder / Frontend Developer · ~8 years · Antigua G
 
 `Angular` `React` `Node.js` `Astro` `Tailwind` `Sass` `Django` `Python` `Ruby` `Rails` `HTML` `CSS`
 
-### Design
+### Product Design
 
 `Figma` `Affinity` `Radix UI` `shadcn/ui` `PostHog` `Hotjar`
 
@@ -16,9 +16,9 @@ Product Designer / Product Builder / Frontend Developer · ~8 years · Antigua G
 
 **[Exeboard](https://exeboard.com)**: corporate governance SaaS for boards across Latin America. I lead product design.
 
-**beta**: Agentic customer experience management for developer-first SaaS teams.
+**beta**: Agentic CX management for developer-first SaaS teams.
 
-## Product design portfolio
+## Portfolio
 
 [davidgalindo.me](https://davidgalindo.me)
 
